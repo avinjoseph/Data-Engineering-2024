@@ -9,3 +9,9 @@ Explorer for log and time series analytics
 ## Azure Synapse Architecture
 
 ![](./docs/images/image_01.png)
+
+## Azure Data Factory
+
+It is basically an integration service where you can perform ETL (Extract Transform Load) or ELT (Extract Load Transform)
+
+![](./docs/images/image_04.png)
